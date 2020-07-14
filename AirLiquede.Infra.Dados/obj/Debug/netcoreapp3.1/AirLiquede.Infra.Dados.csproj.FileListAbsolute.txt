@@ -1,0 +1,13 @@
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Infra.Dados\bin\Debug\netcoreapp3.1\AirLiquede.Infra.Dados.deps.json
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Infra.Dados\bin\Debug\netcoreapp3.1\AirLiquede.Infra.Dados.runtimeconfig.json
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Infra.Dados\bin\Debug\netcoreapp3.1\AirLiquede.Infra.Dados.runtimeconfig.dev.json
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Infra.Dados\bin\Debug\netcoreapp3.1\AirLiquede.Infra.Dados.dll
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Infra.Dados\bin\Debug\netcoreapp3.1\AirLiquede.Infra.Dados.pdb
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Infra.Dados\bin\Debug\netcoreapp3.1\AirLiquede.Dominio.dll
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Infra.Dados\bin\Debug\netcoreapp3.1\AirLiquede.Dominio.pdb
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Infra.Dados\obj\Debug\netcoreapp3.1\AirLiquede.Infra.Dados.csprojAssemblyReference.cache
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Infra.Dados\obj\Debug\netcoreapp3.1\AirLiquede.Infra.Dados.AssemblyInfoInputs.cache
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Infra.Dados\obj\Debug\netcoreapp3.1\AirLiquede.Infra.Dados.AssemblyInfo.cs
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Infra.Dados\obj\Debug\netcoreapp3.1\AirLiquede.Infra.Dados.csproj.CopyComplete
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Infra.Dados\obj\Debug\netcoreapp3.1\AirLiquede.Infra.Dados.dll
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Infra.Dados\obj\Debug\netcoreapp3.1\AirLiquede.Infra.Dados.pdb

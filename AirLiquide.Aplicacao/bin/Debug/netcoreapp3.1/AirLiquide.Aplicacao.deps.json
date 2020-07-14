@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AirLiquide.Aplicacao/1.0.0": {
+        "dependencies": {
+          "AirLiquede.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "AirLiquide.Aplicacao.dll": {}
+        }
+      },
+      "AirLiquede.Dominio/1.0.0": {
+        "runtime": {
+          "AirLiquede.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AirLiquide.Aplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AirLiquede.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

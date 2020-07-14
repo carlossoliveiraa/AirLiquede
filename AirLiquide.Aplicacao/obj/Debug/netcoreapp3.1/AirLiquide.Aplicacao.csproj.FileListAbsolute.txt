@@ -1,0 +1,11 @@
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquide.Aplicacao\bin\Debug\netcoreapp3.1\AirLiquide.Aplicacao.deps.json
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquide.Aplicacao\bin\Debug\netcoreapp3.1\AirLiquide.Aplicacao.dll
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquide.Aplicacao\bin\Debug\netcoreapp3.1\AirLiquide.Aplicacao.pdb
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquide.Aplicacao\bin\Debug\netcoreapp3.1\AirLiquede.Dominio.dll
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquide.Aplicacao\bin\Debug\netcoreapp3.1\AirLiquede.Dominio.pdb
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquide.Aplicacao\obj\Debug\netcoreapp3.1\AirLiquide.Aplicacao.csprojAssemblyReference.cache
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquide.Aplicacao\obj\Debug\netcoreapp3.1\AirLiquide.Aplicacao.AssemblyInfoInputs.cache
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquide.Aplicacao\obj\Debug\netcoreapp3.1\AirLiquide.Aplicacao.AssemblyInfo.cs
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquide.Aplicacao\obj\Debug\netcoreapp3.1\AirLiquide.Aplicacao.csproj.CopyComplete
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquide.Aplicacao\obj\Debug\netcoreapp3.1\AirLiquide.Aplicacao.dll
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquide.Aplicacao\obj\Debug\netcoreapp3.1\AirLiquide.Aplicacao.pdb

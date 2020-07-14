@@ -1,0 +1,9 @@
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Dominio\bin\Debug\netcoreapp3.1\AirLiquede.Dominio.deps.json
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Dominio\bin\Debug\netcoreapp3.1\AirLiquede.Dominio.runtimeconfig.json
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Dominio\bin\Debug\netcoreapp3.1\AirLiquede.Dominio.runtimeconfig.dev.json
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Dominio\bin\Debug\netcoreapp3.1\AirLiquede.Dominio.dll
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Dominio\bin\Debug\netcoreapp3.1\AirLiquede.Dominio.pdb
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Dominio\obj\Debug\netcoreapp3.1\AirLiquede.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Dominio\obj\Debug\netcoreapp3.1\AirLiquede.Dominio.AssemblyInfo.cs
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Dominio\obj\Debug\netcoreapp3.1\AirLiquede.Dominio.dll
+C:\Projetos\Testes_Empresas\ALBStage\AirLiquede.Dominio\obj\Debug\netcoreapp3.1\AirLiquede.Dominio.pdb
