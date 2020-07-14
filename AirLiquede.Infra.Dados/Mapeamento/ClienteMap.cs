@@ -15,7 +15,7 @@ namespace AirLiquede.Infra.Dados.Mapeamento
             builder.ToTable("Clientes");
             builder.Property(c => c.Id).IsRequired().HasColumnName("Id");
 
-            builder.Property(c => c.Nome).HasMaxLength(200).HasColumnName("Nome");
+            builder.Property(c => c.Nome).HasMaxLength(100).HasColumnName("Nome");
             builder.Property(c => c.Idade).HasColumnName("Idade");
         }
     }
