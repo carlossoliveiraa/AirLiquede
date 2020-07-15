@@ -14,5 +14,12 @@
 	
 	* Abrir a documentação da APi no seguinte endereço: Colocar porta do seu localhost
 	  https://localhost:44323/swagger/index.html 
-	  
+	
+	* OBSERVAÇÃO: ESTE PROJETO NÃO ESTA COM NENHUMA SEGURANÇA NA API, POREM TODOS PROJETOS QUE JA PARTICIPEI 
+	APLIQUEI AS MELHORES PRATICAS DE MERCADO, COMO, USO DO IDENTITY, JWT ENTRE OUTROS!
+	
 	*  Fazer os testes conforme solicitado!
+	
+	Abs
+	
+	
