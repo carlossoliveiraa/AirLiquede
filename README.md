@@ -13,9 +13,9 @@
 	  add-migration AirLiquideMigration
 	  update-database
 	  
-	* Compilar todo o projeto
-	
-	* Abrir a documentação da APi no seguinte endereço: Colocar porta do seu localhost
+	  * Executar a camada de API.
+	    
+	* Abrir a documentação da APi no seguinte endereço: Colocar a porta do seu localhost
 	  https://localhost:44323/swagger/index.html 
 	
 	* OBSERVAÇÃO: ESTE PROJETO NÃO ESTA COM NENHUMA SEGURANÇA NA API, POREM TODOS PROJETOS QUE JA PARTICIPEI 
