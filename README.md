@@ -6,7 +6,7 @@
 	Instrução para validação:
 
 	* Mapear na camada de API, o arquivo appsettings.json para apontar para seu banco de dados sql
-	* Copilar todo Projeto.
+	* Compilar todo Projeto.
 	
 	* Rodar o Migration na camada Infra pelo console.
 	  add-migration AirLiquideMigration
