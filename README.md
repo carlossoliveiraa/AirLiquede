@@ -12,7 +12,7 @@
 	  add-migration AirLiquideMigration
 	  update-database
 	  
-	* Copilar todo o projeto
+	* Compilar todo o projeto
 	
 	* Abrir a documentação da APi no seguinte endereço: Colocar porta do seu localhost
 	  https://localhost:44323/swagger/index.html 
